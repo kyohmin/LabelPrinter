@@ -1,2 +1,2 @@
 # LabelPrinter
-Rain Hi-Tech's Automated Label printing program
+Raon Hi-Tech's Automated Label printing program
